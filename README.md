@@ -13,10 +13,12 @@ Desenvolver APIs simulando operações de um caixa eletrônico com os seguintes 
 
 O que é esperado neste teste?
 
-- Testes unitários
+- Projeto de API com Java e Spring Boot
+- Testes unitários com Junit 5
+- Desenho de arquitetura proposta
 - Uso de banco de dados
-- Uso de Docker
+- Uso de Docker para rodar toda a aplicação
 - Uso dos padrões de API RESTful (verbos, endpoints, status code, etc)
 - Documentação de como executar a aplicação
-- Documentação de como usar os endpoints
+- Documentação de como usar os endpoints utilizando Collection pelo Postman 
 - Uso de git - o código deverá seguir o padrão de gitflow 

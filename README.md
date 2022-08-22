@@ -20,5 +20,5 @@ O que é esperado neste teste?
 - Uso de Docker para rodar toda a aplicação
 - Uso dos padrões de API RESTful (verbos, endpoints, status code, etc)
 - Documentação de como executar a aplicação
-- Documentação de como usar os endpoints utilizando Collection pelo Postman 
+- Documentação de como usar os endpoints utilizando Collection pelo Postman
 - Uso de git - o código deverá seguir o padrão de gitflow 
